@@ -5,6 +5,8 @@ AC
 G++
 1261ms
 188MB
+
+一部作品中所有长度为K的旋律中出现次数最多的旋律的出现次数。但是K不是固定的，小Hi想知道对于所有的K的答案。
 */
 #include<bits/stdc++.h>
 using namespace std;
