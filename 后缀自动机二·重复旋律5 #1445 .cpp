@@ -5,7 +5,7 @@ AC
 G++
 993ms
 208MB
-
+不同子串数目
 */
 #include<iostream>
 #include<cstdio>
