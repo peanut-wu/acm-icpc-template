@@ -1,4 +1,3 @@
-/*
 //hhhhhhhhÄ£ÄâÍË»ğË®¹ı¡­¡­
 //http://hihocoder.com/problemset/problem/1142
 #include<iostream>
@@ -48,15 +47,4 @@ int main(){
 	}
 	printf("%.3lf\n",dis(ans,p));
 	return 0; 
-}*/
-#include<iostream>
-#include<cstdio>
-using namespace std;
-int main(){
-	int i;
-	for (int q=0;q<16;q++){
-		cout<<"$p ";
-		printf("%02X %X%X\n",q,q+1,q+1);
-		
-	}
-} 
+}
